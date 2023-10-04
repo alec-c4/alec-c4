@@ -9,10 +9,9 @@
 [![Github](https://img.shields.io/github/followers/alec-c4?label=Follow&style=social)](https://github.com/alec-c4)
 
 - 💻 CEO and founder of [**Asgard Technologies**](https://asgard.company) organization. 
-- 📫 How to reach me: alec@alec-c4.com
 - 📝 I regularly write articles on [https://alec-c4.com](https://alec-c4.com)
 - 📄 Know about my experiences [https://alec-c4.com/about](https://alec-c4.com/about)
-
+- 📫 How to reach me: alec@alec-c4.com
 
 ### 🖥 Skills
 
